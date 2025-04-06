@@ -4,17 +4,17 @@
 
 `npm install -g pnpm@latest-10`
 
-[ShadUI installation](https://ui.shadcn.com/docs/installation/next)
-
 ---
+
+[ShadUI installation](https://ui.shadcn.com/docs/installation/next)
 
 `pnpm create next-app@latest . --typescript --tailwind --eslint`
 
 `pnpm dlx shadcn@latest init`
 
-[Color style personalization](https://ui.shadcn.com/themes)
-
 ---
+
+[Color style personalization](https://ui.shadcn.com/themes)
 
 > Change global.css
 
@@ -25,7 +25,11 @@
   --foreground: oklch(0.141 0.005 285.823);
   --card: oklch(1 0 0);
   --card-foreground: oklch(0.141 0.005 285.823);
-  ***...***
+```
+
+**...**
+
+```css
 }
 
 .dark {
@@ -34,7 +38,11 @@
   --card: oklch(0.21 0.006 285.885);
   --card-foreground: oklch(0.985 0 0);
   --popover: oklch(0.21 0.006 285.885);
-  ***...***
+```
+
+**...**
+
+```css
 }
 ```
 
