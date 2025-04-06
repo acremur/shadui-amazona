@@ -1,16 +1,16 @@
-## Next.js ECommerce App With Admin Panel For Beginners [Nextjs, Tailwind, ShadUI, Stripe, PayPal]
+# Next.js ECommerce App With Admin Panel For Beginners
+
+### [Nextjs, Tailwind, ShadUI, Stripe, PayPal]
 
 A [video](https://www.youtube.com/watch?v=M4DrCi8EuYE&ab_channel=AIWithBasir) of the youtube channel of **AI With Basir**.
 
 <br>
 
-### Initial setup
+## Initial setup
 
 [pnpm installation](https://pnpm.io/installation)
 
 `npm install -g pnpm@latest-10`
-
-<br>
 
 [ShadUI installation](https://ui.shadcn.com/docs/installation/next)
 
@@ -46,7 +46,7 @@ A [video](https://www.youtube.com/watch?v=M4DrCi8EuYE&ab_channel=AIWithBasir) of
 
 <br>
 
-### Font configuration
+## Font configuration
 
 > Change layout.tsx
 
