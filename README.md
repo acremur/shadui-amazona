@@ -1,10 +1,13 @@
 ## Initial setup
 
 [pnpm installation](https://pnpm.io/installation)
+
 `npm install -g pnpm@latest-10`
 
 [shadcn installation](https://ui.shadcn.com/docs/installation/next)
+
 `pnpm create next-app@latest . --typescript --tailwind --eslint`
+
 `pnpm dlx shadcn@latest init`
 
 ## Font configuration
