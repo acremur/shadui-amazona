@@ -2,6 +2,8 @@
 
 A [video](https://www.youtube.com/watch?v=M4DrCi8EuYE&ab_channel=AIWithBasir) of the youtube channel of **AI With Basir**.
 
+---
+
 ### Initial setup
 
 [pnpm installation](https://pnpm.io/installation)
@@ -41,6 +43,8 @@ A [video](https://www.youtube.com/watch?v=M4DrCi8EuYE&ab_channel=AIWithBasir) of
   /* ... */
 }
 ```
+
+---
 
 ### Font configuration
 
