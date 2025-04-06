@@ -10,7 +10,7 @@ A [video](https://www.youtube.com/watch?v=M4DrCi8EuYE&ab_channel=AIWithBasir) of
 
 `npm install -g pnpm@latest-10`
 
----
+<br>
 
 [ShadUI installation](https://ui.shadcn.com/docs/installation/next)
 
@@ -18,7 +18,7 @@ A [video](https://www.youtube.com/watch?v=M4DrCi8EuYE&ab_channel=AIWithBasir) of
 
 `pnpm dlx shadcn@latest init`
 
----
+<br>
 
 [Color style personalization](https://ui.shadcn.com/themes)
 
