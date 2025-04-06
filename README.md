@@ -1,4 +1,8 @@
-## Initial setup
+## Next.js ECommerce App With Admin Panel For Beginners [Nextjs, Tailwind, ShadUI, Stripe, PayPal]
+
+<p>A [video](https://www.youtube.com/watch?v=M4DrCi8EuYE&ab_channel=AIWithBasir) of the youtube channel of **AI With Basir**</p>
+
+### Initial setup
 
 [pnpm installation](https://pnpm.io/installation)
 
@@ -38,7 +42,7 @@
 }
 ```
 
-## Font configuration
+### Font configuration
 
 > Change layout.tsx
 
