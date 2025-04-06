@@ -1,15 +1,15 @@
-# pnpm installation
+## Initial setup
 
-(https://pnpm.io/installation)
-npm install -g pnpm@latest-10
+[pnpm installation]
+https://pnpm.io/installation
+`npm install -g pnpm@latest-10`
 
-# shadcn installation
+[shadcn installation]
+https://ui.shadcn.com/docs/installation/next
+`pnpm create next-app@latest . --typescript --tailwind --eslint`
+`pnpm dlx shadcn@latest init`
 
-(https://ui.shadcn.com/docs/installation/next)
-pnpm create next-app@latest . --typescript --tailwind --eslint
-pnpm dlx shadcn@latest init
-
-# font configuration
+## Font configuration
 
 ```javascript
     import { Poppins as FontSans } from 'next/font/google'
