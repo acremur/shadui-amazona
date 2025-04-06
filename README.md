@@ -25,11 +25,7 @@
   --foreground: oklch(0.141 0.005 285.823);
   --card: oklch(1 0 0);
   --card-foreground: oklch(0.141 0.005 285.823);
-```
-
-**...**
-
-```css
+  /* ... */
 }
 
 .dark {
@@ -38,11 +34,7 @@
   --card: oklch(0.21 0.006 285.885);
   --card-foreground: oklch(0.985 0 0);
   --popover: oklch(0.21 0.006 285.885);
-```
-
-**...**
-
-```css
+  /* ... */
 }
 ```
 
