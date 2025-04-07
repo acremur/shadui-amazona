@@ -46,25 +46,26 @@ A [video](https://www.youtube.com/watch?v=M4DrCi8EuYE&ab_channel=AIWithBasir) fr
 
 <br>
 
-## Font configuration
+## Tailwind merge and font configuration
 
 > Change layout.tsx
 
 ```javascript
-    import { Poppins as FontSans } from 'next/font/google'
+  import { cn } from '@/lib/utils'
+  import { Poppins as FontSans } from 'next/font/google'
 
-    const fontSans = FontSans({
-        subsets: ['latin'],
-        weight: ['400', '600'],
-        variable: '--font-sans',
-    })
+  const fontSans = FontSans({
+      subsets: ['latin'],
+      weight: ['400', '600'],
+      variable: '--font-sans',
+  })
 
-    <body
-        className={cn(
-            'min-h-screen, bg-background font-sans antialiased',
-            fontSans.variable
-        )}
-        >
-        {children}
-    </body>
+  <body
+      className={cn(
+          'min-h-screen, bg-background font-sans antialiased',
+          fontSans.variable
+      )}
+      >
+      {children}
+  </body>
 ```
